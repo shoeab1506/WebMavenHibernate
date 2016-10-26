@@ -25,6 +25,8 @@ public class FuncaoDAO extends AbstractGenericDAO<Funcao>{
             System.out.println(" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ");
             System.out.println(" Erro ao buscar lista de FUNCAO : " + erro.toString());
             System.out.println(" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ");
+            System.out.println(" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ");
+            
         }
         return null;
     }
